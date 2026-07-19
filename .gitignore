@@ -1,0 +1,5 @@
+.env.local
+*.log
+charts/node_modules/
+datatable/node_modules/
+gantt/node_modules/
